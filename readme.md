@@ -49,10 +49,10 @@ output : I am Nourin Noushad
  The trim() method removes whitespace from both sides of a string. The trim() method does not change the original string.
 
 ```js
-let text="          set of characters enclosed in single quotes";
+let text="          set of characters enclosed in a single quotes";
  console.log(text.trim());
 ```
-output:set of characters enclosed in single quotes
+output : set of characters enclosed in a single quotes
 
 - split() 
 
