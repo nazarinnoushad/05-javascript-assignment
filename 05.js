@@ -17,11 +17,11 @@ let str="java script"
  console.log(text.split(""));
 
  const fruits=["banana","orange","lemon","apple","mango"];
- console.log(fruits.slice(1,3));*/
+ console.log(fruits.slice(1,3));
 
 let userName=prompt("Enter Your Name:")
 let FirstLetter=userName.slice(0,1).toUpperCase()
 let restOftheLetters=userName.slice(1,userName.length).toLowerCase()
 let nameToDisplay=FirstLetter+restOftheLetters
-alert(`hey ${nameToDisplay}`)
+alert(`hey ${nameToDisplay}`)*/
 
